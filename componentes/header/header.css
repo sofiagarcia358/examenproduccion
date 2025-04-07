@@ -1,0 +1,15 @@
+.header{
+    width: 100%;
+    height: 20rem;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-around; 
+}
+.TotalX{
+    font-size: 1rem;
+    text-align: center;
+}
+.Total2{
+    font-size: 1rem;
+    text-align: center;
+}

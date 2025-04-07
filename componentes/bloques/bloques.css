@@ -1,0 +1,22 @@
+
+.fondo{
+    width: 100%;
+    height: auto;
+    display: grid;
+    grid-template-rows: 20rem 20rem 20rem;
+    grid-template-columns: repeat(3, 1fr);
+    border: 1px solid grey;
+}
+.cuadro{
+    border: 1px solid black;
+    width: 5rem;
+    height: 5rem;
+    display: flex;
+}
+.btn1{
+    font-size: 1.5rem;
+
+}
+.btn2{
+    font-size: 1.5rem;
+}
